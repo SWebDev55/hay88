@@ -45,7 +45,7 @@ video{
 	top: 20%;
 	left: 50%;
 	transform: translateX(-50%);
-	padding: 10px;
+	padding: 20px 25px;
 }
 .w750 {
     margin: 0 auto;
@@ -66,7 +66,7 @@ video{
 .btnBox {
     width: 5.893333rem;
     margin: 0 auto;
-    padding-top: 280px;
+    padding-top: 290px;
     display: inline-block;
     vertical-align: middle;
 }
